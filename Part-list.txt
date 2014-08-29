@@ -1,0 +1,25 @@
+Partlist
+
+Exported from Freq.Counter.V.1.0.sch at 8/28/2014 7:21:38 AM
+
+EAGLE Version 6.3.0 Copyright (c) 1988-2012 CadSoft
+
+Assembly variant: 
+
+Part       Value                                     Device                                    Package            Library      Sheet
+
++5V                                                  PINHD-1X2                                 1X02               pinhead      1
+C1         22p                                       C-EU050-025X075                           C050-025X075       rcl          1
+C2         22p                                       C-EU050-025X075                           C050-025X075       rcl          1
+DIRECT-IN                                            W237-102                                  W237-102           con-wago-500 1
+FRQ.SCALED                                           W237-102                                  W237-102           con-wago-500 1
+IC1        MEGA8-P                                   MEGA8-P                                   DIL28-3            atmel        1
+IC2        7805TV                                    7805TV                                    TO220V             linear       1
+IC3        74HC93N                                   74HC93N                                   DIL14              74xx-eu      1
+POWER-IT                                             W237-102                                  W237-102           con-wago-500 1
+Q1         16M                                       XTAL/S                                    QS                 special      1
+R1         10k                                       R-US_0207/10                              0207/10            rcl          1
+R2                                                   3RP/1610N                                 3RP/1610N          pot          1
+RESET                                                10-XX                                     B3F-10XX           switch-omron 1
+SW1                                                  SW_DIP-1                                  EDG-01             special      1
+U$1        LCD-HD4478016X2-4-HOLES-BL16X2-4-HOLES-BL LCD-HD4478016X2-4-HOLES-BL16X2-4-HOLES-BL LCD-16X2-4HOLES-BL HD44780LCD   1
