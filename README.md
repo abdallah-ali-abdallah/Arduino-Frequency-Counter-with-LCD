@@ -19,6 +19,7 @@ with maximum frequency input 64 Mhz
   for example: 
   
   chip 74-LS-93 has (Max clock = 42 Mhz) - so you can measure up to 42 Mhz
+  
   chip 74-HC-93 has (Max clock = 64 Mhz) - so you can measure up to 64 Mhz
   
   Note: Minmum input voltage is 2 volt
