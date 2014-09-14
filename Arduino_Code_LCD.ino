@@ -57,13 +57,9 @@ void loop() {
   frq=FreqCounter::f_freq;
 
   lcd.setCursor(0, 0);
-  lcd.print("Direct: ");
-  lcd.setCursor(9, 0);
-  lcd.print(frq);  
-  lcd.setCursor(0, 1);
-  lcd.print("Mult.8:");  
-  lcd.setCursor(8, 1);
-  lcd.print(frq*8); 
+  lcd.print("Frequency(Hz):");
+  lcd.setCursor(4, 1);
+  lcd.print(frq*8);   
   delay(100);
 
 }  

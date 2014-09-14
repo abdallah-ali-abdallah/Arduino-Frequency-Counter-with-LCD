@@ -62,7 +62,7 @@ void loop() {
 
 
   Serial.print("Freq in Hz. ");
-  Serial.println(frq);
+  Serial.println(frq*8);
 
   delay(100);
   
