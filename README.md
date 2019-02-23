@@ -1,17 +1,17 @@
 Arduino-Frequency-Counter-with-LCD
 ==================================
 
-Arduino Frequency Counter with LCD Everything is Embedded on a single Layer PCB
-with maximum frequency input 64 Mhz
+Arduino Frequency Counter with LCD, Everything is Embedded in a single Layer PCB
+with maximum frequency input up-to 64 Mhz
 
   Arduino Frequency Counter (up to 64 Mhz) with LCD
-  By: Abdallah Ali 
+  By: Abdallah Ali Abdallah
   Date: Aug-2014
   Licence: CC-BY-NC V.4
-  E-mail: 
+  E-mail: abdallah.ali.abdallah.elmasry@gmail.com
 
   
-  Note: This counter use chip 74xx93 (counter) as a frequency divider by 8
+  Note: This counter is based on chip 74xx93 (counter) used as a frequency divider by 8
   the maximum bandwidth for arduino to count is 8 Mhz and we can multiply this number 
   using 74xx93 or any other counter chip.
   
